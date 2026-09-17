@@ -1,259 +1,296 @@
+<!-- ============================================================
+     CHANDRADIP SAHA · GitHub Profile
+     Replace every  YOUR-USERNAME  with your real GitHub handle
+     (no spaces — e.g. chandradipsaha). Update links marked  <<<
+     ============================================================ -->
+
+<!-- ========================= HERO ========================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:022c22,40:059669,75:10B981,100:F59E0B&height=235&section=header&text=CHANDRADIP%20SAHA&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Developer%20%C2%B7%20Problem%20Solver%20%C2%B7%20Builder&descAlignY=62&descSize=16&animation=fadeIn" alt="banner"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=CHANDRADIP&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=00F7FF&color=0D1117" width="100%"/>
+[
 
-# `> Hello, World!_`
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=34D399&center=true&vCenter=true&width=700&height=45&lines=Turning+caffeine+into+clean+code.;Building+practical%2C+meaningful+software.;Always+learning%2C+always+shipping.;Code+with+purpose%2C+design+with+care.)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=Computer+Science+%26+Technology+Student;AI+%2B+Cybersecurity+Enthusiast;Python+%7C+Java+%7C+C+Developer;Building+%7C+Breaking+%7C+Learning;Welcome+to+my+digital+lab+%F0%9F%94%90" />
+](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=PROFILE+VIEWS&color=10B981&style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/YOUR-USERNAME?label=FOLLOWERS&style=flat-square&color=F59E0B" />
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-Open%20to%20work-34D399?style=flat-square" />
+
+</div>
+
+<!-- ================== IDENTITY BAR ================== -->
+<div align="center">
+
+`◆ ROLE` **Developer** &nbsp;•&nbsp; `◆ FOCUS` **Full-Stack** &nbsp;•&nbsp; `◆ VIBE` **Ship it clean**
+
+</div>
+
+---
+
+## ▸ About Me
+
+Hi, I'm **Chandradip Saha** — a developer who enjoys turning ideas into working, well-crafted software. <!-- ✏️ EDIT: add your education / focus -->
+
+I care about the details most people skip: readable code, thoughtful interfaces, and projects that actually solve something. I learn by building — every repo here is a step forward. <!-- ✏️ EDIT: personalize this -->
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Chandradip17&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge" />
+<!-- ================== TECH ARSENAL ================== -->
+## ▸ Technology Arsenal
 
-[![GitHub](https://img.shields.io/badge/GitHub-Chandradip17-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/Chandradip17)
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
-</div>
+**Languages**
 
----
 
-## 🖥️ `$ whoami`
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                         CHANDRADIP                           ║
-╠══════════════════════════════════════════════════════════════╣
-║  🎓 Role       : Computer Science & Technology Student       ║
-║  💻 Focus      : Software Development                        ║
-║  🤖 Exploring  : Artificial Intelligence                      ║
-║  🔐 Interest   : Cybersecurity                               ║
-║  🐍 Language   : Python                                      ║
-║  ☕ Also       : Java • C • JavaScript                        ║
-║  🌐 Building   : Web Apps • APIs • Security Tools             ║
-║  ⚡ Philosophy : Learn → Build → Break → Fix → Repeat        ║
-╚══════════════════════════════════════════════════════════════╝
-
-> I don't just want to use technology.
-I want to understand it, build it, and make it better.
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 
 
 
----
-
-⚡ ./current_status
-
-$ systemctl status chandradip
-
-● chandradip.service - Developer Mode
-   Loaded: active
-   Status: ONLINE
-
-   [✓] Learning
-   [✓] Coding
-   [✓] Building projects
-   [✓] Exploring AI
-   [✓] Exploring Cybersecurity
-   [✓] Improving problem solving
-   [~] Sleep.exe → occasionally unavailable
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
----
-
-🧠 Tech Stack
-
-Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,html,css" />
-</p>Frameworks & Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi" />
-</p>Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,linux,docker,mysql,postgresql" />
-</p>
----
-
-🔐 ~/projects
-
-🛡️ SecureMyAI
-
-AI-Powered Threat Detector for Open-Source Projects
-
-┌──────────────────────────────────────────────────────────┐
-│                     SECUREMYAI                           │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│   Repository ──→ Security Scanner ──→ Threat Analysis   │
-│                              │                           │
-│                              ↓                           │
-│                       AI Context Check                   │
-│                              │                           │
-│                              ↓                           │
-│                      Security Report                     │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-
-A security-focused project designed to detect AI-specific vulnerabilities in open-source repositories.
-
-Detecting
-
-🧠 Prompt Injection
-
-☠️ Model/Data Poisoning
-
-🔓 Sensitive Data Leakage
-
-⚠️ Security Misconfigurations
-
-🤖 AI-related Threats
-
-📊 Security Risks
 
 
-Built With
-
-Python React Flask FastAPI GitHub Actions SQLite PostgreSQL
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
----
-
-🗑️ Smart Waste Detection System
-
-An IoT-based smart dustbin designed to automatically detect waste conditions and control the dustbin mechanism.
-
-Hardware
-
-Arduino Uno • HC-SR04 • Soil Moisture Sensor • Servo Motor
-
-Concept
-
-┌───────────────┐
-        │    Sensors    │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │    Arduino    │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │ Servo Control │
-        └───────┬───────┘
-                ↓
-        🗑️ Smart Sorting
 
 
----
-
-🧪 ~/lab
-
-Things I'm currently exploring:
-
-AI
- ├── AI-powered applications
- ├── AI security
- └── intelligent automation
-
-CYBERSECURITY
- ├── Threat detection
- ├── Secure coding
- ├── Network security
- └── Application security
-
-DEVELOPMENT
- ├── Python
- ├── Java
- ├── Web development
- ├── APIs
- └── GitHub Actions
-
-COMPUTER SCIENCE
- ├── Data Structures
- ├── Algorithms
- ├── DBMS
- ├── Operating Systems
- └── Computer Networks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
----
 
-📊 GitHub Analytics
+**Web**
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Chandradip17&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" /><br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandradip17&layout=compact&hide_border=true&theme=transparent" /><br><br>
 
-<img src="https://streak-stats.demolab.com?user=Chandradip17&theme=transparent&hide_border=true" /></div>
----
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-🐍 Contribution Activity
+
+
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
+
+</td>
+<td valign="top" width="50%">
+
+**Databases**
+
+
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+
+
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+
+**Tools & Backend**
+
+
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+
+
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+
+
+</td>
+</tr>
+</table>
+
+<!-- ✏️ EDIT: add/remove badges above to match your real stack -->
+
+<br>
+
+<!-- ================== ANALYTICS ================== -->
+## ▸ GitHub Analytics
 
 <div align="center">
 
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=34D399&icon_color=F59E0B&text_color=c9d1d9" />
+<img height="175em" src="https://github-readme-streak-stats.demolab.com?user=YOUR-USERNAME&hide_border=true&background=0D1117&stroke=059669&ring=34D399&fire=F59E0B&currStreakLabel=34D399&sideLabels=c9d1d9&dates=8b949e" />
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=34D399&text_color=c9d1d9" />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&bg_color=0D1117&color=34D399&line=F59E0B&point=ffffff&area=true&hide_border=true" />
+
 </div>
----
 
-🎯 mission_2026.exe
+<br>
 
-+ Build meaningful projects
-+ Master Data Structures & Algorithms
-+ Improve Python & Java
-+ Explore AI Security
-+ Learn more about Cybersecurity
-+ Contribute to Open Source
-+ Build useful developer tools
-+ Turn ideas into real products
+<!-- ================== SNAKE ANIMATION ================== -->
+## ▸ Contribution Snake
+
+<div align="center">
+
+<img width="98%" src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/snake.svg" alt="snake animation" />
+
+</div>
+
+<br>
+
+<!-- ================== FEATURED PROJECTS ================== -->
+## ▸ Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### ◆ Project One
+Short one-line description of what it does and why it's useful. <!-- ✏️ EDIT -->
 
 
----
 
-🌐 Connect
+![Tech](https://img.shields.io/badge/-Tech-34D399?style=flat-square)
 
-<div align="center"><a href="https://github.com/Chandradip17">
-<img src="https://img.shields.io/badge/GitHub-Chandradip17-181717?style=for-the-badge&logo=github"/>
-</a><!-- Add your LinkedIn when ready --><a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a></div>
----
 
-<div align="center">> Keep learning. Keep building. Keep breaking limits._
 
-<br><img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0D1117&animation=fadeIn"/></div>
-```🔥 One important upgrade
 
-The snake animation won't automatically work just from the README. You need a GitHub Action to generate it.
+![Tech](https://img.shields.io/badge/-Tech-F59E0B?style=flat-square)
 
-Create:
 
-.github/workflows/snake.yml
 
-and use:
+[`View Repository →`](https://github.com/YOUR-USERNAME/repo-one) <!-- <<< -->
 
-name: Generate Snake
+</td>
+<td width="33%" valign="top">
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+### ◆ Project Two
+Short one-line description of what it does and why it's useful. <!-- ✏️ EDIT -->
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
 
-    steps:
-      - name: Generate contribution snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Chandradip17
-          outputs: |
-            dist/github-contribution-grid-snake.svg
 
-      - name: Publish
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BUILD_DIR: dist
+![Tech](https://img.shields.io/badge/-Tech-34D399?style=flat-square)
+
+
+
+
+![Tech](https://img.shields.io/badge/-Tech-F59E0B?style=flat-square)
+
+
+
+[`View Repository →`](https://github.com/YOUR-USERNAME/repo-two) <!-- <<< -->
+
+</td>
+<td width="33%" valign="top">
+
+### ◆ Project Three
+Short one-line description of what it does and why it's useful. <!-- ✏️ EDIT -->
+
+
+
+![Tech](https://img.shields.io/badge/-Tech-34D399?style=flat-square)
+
+
+
+
+![Tech](https://img.shields.io/badge/-Tech-F59E0B?style=flat-square)
+
+
+
+[`View Repository →`](https://github.com/YOUR-USERNAME/repo-three) <!-- <<< -->
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ================== CURRENTLY LEARNING ================== -->
+## ▸ Currently Learning
+
+<div align="center">
+
+
+
+![One](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-34D399?style=for-the-badge)
+
+
+
+
+![Two](https://img.shields.io/badge/System%20Design-059669?style=for-the-badge)
+
+
+
+
+![Three](https://img.shields.io/badge/Backend%20Development-F59E0B?style=for-the-badge)
+
+
+
+*Sharpening fundamentals while building real projects.* <!-- ✏️ EDIT -->
+
+</div>
+
+<br>
+
+<!-- ================== CONNECT ================== -->
+## ▸ Connect With Me
+
+<div align="center">
+
+[
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+](https://github.com/YOUR-USERNAME)
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+
+](https://linkedin.com/in/YOUR-PROFILE)
+[
+
+![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+
+](mailto:YOUR-EMAIL@gmail.com)
+[
+
+![Portfolio](https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)
+
+](https://YOUR-PORTFOLIO.com)
+
+</div>
+
+<!-- ================== FOOTER ================== -->
+<br>
+
+<div align="center">
+
+> *"Simplicity is the soul of efficiency."*
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,30:10B981,70:059669,100:022c22&height=120&section=footer&text=Let's%20build%20something%20great.&fontSize=18&fontColor=ffffff&fontAlignY=68&animation=twinkling" />

@@ -1,12 +1,14 @@
 <!-- ================================================================
      GITHUB PROFILE README
-     Replace all placeholders (YOUR_USERNAME, YOUR_LINKEDIN, etc.)
-     before publishing. See setup instructions provided separately.
+     Username set to Chandradip17. Still replace YOUR_LINKEDIN,
+     YOUR_EMAIL, and YOUR_PORTFOLIO below before publishing.
      ================================================================ -->
 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=560&lines=AI+Developer;Web+Developer;Problem+Solver;Hackathon+Builder;Computer+Science+Student" alt="Typing SVG" />
+
+## Chandradip Saha
 
 ### Building intelligent software at the intersection of AI and the Web.
 
@@ -93,7 +95,7 @@ An AI-powered study companion concept.
 - **Problem:** Studying efficiently is hard without structured guidance
 - **Solution:** An assistant that helps organize and reinforce learning
 - **Status:** `Planned`
-- 🔗 [Repository](https://github.com/YOUR_USERNAME/ai-studymate) · 🌐 [Demo](#)
+- 🔗 [Repository](https://github.com/Chandradip17/ai-studymate) · 🌐 [Demo](#)
 
 </td>
 <td width="50%" valign="top">
@@ -105,7 +107,7 @@ A mood-based music recommendation concept.
 - **Problem:** Music discovery rarely accounts for mood
 - **Solution:** Recommend tracks based on inferred mood
 - **Status:** `Planned`
-- 🔗 [Repository](https://github.com/YOUR_USERNAME/vibesage) · 🌐 [Demo](#)
+- 🔗 [Repository](https://github.com/Chandradip17/vibesage) · 🌐 [Demo](#)
 
 </td>
 </tr>
@@ -119,7 +121,7 @@ An Arduino-based smart waste sorting project.
 - **Problem:** Manual waste sorting is inconsistent
 - **Solution:** Automated sensor-based sorting mechanism
 - **Status:** `Planned`
-- 🔗 [Repository](https://github.com/YOUR_USERNAME/smart-waste-sorter) · 🌐 [Demo](#)
+- 🔗 [Repository](https://github.com/Chandradip17/smart-waste-sorter) · 🌐 [Demo](#)
 
 </td>
 <td width="50%" valign="top">
@@ -131,7 +133,7 @@ Data structures and algorithm practice repository.
 - **Problem:** Strong fundamentals need consistent practice
 - **Solution:** A structured, growing collection of DSA solutions
 - **Status:** `Ongoing`
-- 🔗 [Repository](https://github.com/YOUR_USERNAME/dsa-lab) · 🌐 [Demo](#)
+- 🔗 [Repository](https://github.com/Chandradip17/dsa-lab) · 🌐 [Demo](#)
 
 </td>
 </tr>
@@ -143,12 +145,12 @@ Data structures and algorithm practice repository.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Chandradip17&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandradip17&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="165"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=default" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Chandradip17&hide_border=true&theme=default" alt="GitHub Streak" />
 
 </div>
 
@@ -158,7 +160,7 @@ Data structures and algorithm practice repository.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" />
+<img src="https://raw.githubusercontent.com/Chandradip17/Chandradip17/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" />
 
 </div>
 
@@ -221,7 +223,7 @@ I care more about building solutions to real problems than about demonstrating t
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chandradip17)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO)
